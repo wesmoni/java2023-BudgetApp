@@ -25,7 +25,7 @@ body {
     background-color: #6e5681;
     height: 85px;
 }
-.profile-list{
+.profile-image{
     position: relative;
     display: flex;
     left: 15px;
